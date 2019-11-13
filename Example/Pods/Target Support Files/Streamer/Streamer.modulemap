@@ -1,0 +1,6 @@
+framework module Streamer {
+  umbrella header "Streamer-umbrella.h"
+
+  export *
+  module * { export * }
+}

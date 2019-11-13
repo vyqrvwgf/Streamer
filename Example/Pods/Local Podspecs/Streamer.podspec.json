@@ -1,0 +1,22 @@
+{
+  "name": "Streamer",
+  "version": "0.1.0",
+  "summary": "A short description of Streamer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vyqrvwgf/Streamer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vyqrvwgf": "515310192@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/vyqrvwgf/Streamer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Streamer/Classes/**/*"
+}

@@ -1,0 +1,14 @@
+source 'https://github.com/castbox/GuruSpecs.git'
+
+use_frameworks!
+
+target 'Streamer_Example' do
+  pod 'Streamer', :path => '../'
+
+  target 'Streamer_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+    pod 'FBSnapshotTestCase'
+  end
+end
