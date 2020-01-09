@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "Streamer"
-  s.version = "1.3.0"
+  s.version = "2.1.0"
   s.summary = "forked from: https://github.com/tumtumtum/StreamingKit"
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"vyqrvwgf"=>"515310192@qq.com"}
